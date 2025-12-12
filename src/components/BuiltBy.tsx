@@ -6,8 +6,8 @@ import dr1mmerrAvatar from '../assets/dr1mmerr.jpg';
 
 const team = [
     { name: 'nailuy', avatar: nailuyAvatar, link: 'https://x.com/yulianvakh' },
-    { name: 'kesha', avatar: keshaAvatar, link: null },
-    { name: 'Pushkin', avatar: pushkinAvatar, link: null },
+    { name: 'vadim_kesha', avatar: keshaAvatar, link: null },
+    { name: 'pushkin_ievgen', avatar: pushkinAvatar, link: null },
     { name: 'dr1mmerr', avatar: dr1mmerrAvatar, link: null },
 ];
 
