@@ -64,7 +64,7 @@ function HomePage() {
                     {/* Beginner */}
                     <div className="course-card">
                         <div className="course-header" style={{ background: 'linear-gradient(135deg, #10b981 0%, #34d399 100%)' }}>
-                            <span className="course-level beginner">Beginner</span>
+                            <span className="course-level beginner">Beginner ///</span>
                             <h3 className="course-title">STAGES 1-5</h3>
                         </div>
                         <div className="course-body">
