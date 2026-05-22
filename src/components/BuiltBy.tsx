@@ -1,8 +1,6 @@
 import { useState } from 'react';
 import nailuyAvatar from '../assets/nailuy.png';
-import keshaAvatar from '../assets/kesha.jpg';
-import pushkinAvatar from '../assets/pushkin.jpg';
-import dr1mmerrAvatar from '../assets/dr1mmerr.jpg';
+
 
 const team = [
     { name: 'nailuy', avatar: nailuyAvatar, link: 'https://x.com/yulianvakh' },
